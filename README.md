@@ -1,4 +1,4 @@
-customizer-controls
+WordPress Theme Customizer Controls
 ===================
 
-Custom classes for the WordPress theme customizer
+An open source collection of control classes for the WordPress theme customizer, courtesy of Theme Foundation.
