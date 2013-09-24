@@ -5,8 +5,8 @@
  *
  * The category IDs are saved in the database as a comma separated string.
  */
-class Cstmzr_Category_Checkboxes_Control extends WP_Customize_Control {
-	public $type = 'category-checkboxes';
+class Cstmzr_Checkbox_Categories_Control extends WP_Customize_Control {
+	public $type = 'checkbox-categories';
 
 	public function render_content() {
 
